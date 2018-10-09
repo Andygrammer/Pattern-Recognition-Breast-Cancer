@@ -4,5 +4,7 @@ Methods and techniques developed and applied in Pattern Recognition subject of U
 File description:
 
 a) Dataset: dataset-full2.csv <br />
-b) Preprocessing with PCA: PCA_ByAnd.ipynb <br />
-c) Coming soon...
+b) Dataset standardized: dataset-standardized.csv <br />
+c) Preprocessing with PCA (fusion features method): PCA_ByAnd.ipynb <br />
+d) Preprocessing with K-Best (selection features method): K-Best_ByAnd.ipynb
+e) Coming soon...
