@@ -3,6 +3,6 @@ Methods and techniques developed and applied in Pattern Recognition subject of U
 
 File description:
 
-a) Dataset: dataset-full2.csv
-b) Preprocessing with PCA: PCA_ByAnd.ipynb
+a) Dataset: dataset-full2.csv <br />
+b) Preprocessing with PCA: PCA_ByAnd.ipynb <br />
 c) Coming soon...
